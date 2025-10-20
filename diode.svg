@@ -1,0 +1,9 @@
+<!-- icons/diode.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -20 160 80" aria-hidden="true" role="img">
+  <g stroke="#111" stroke-width="3" fill="#fff" stroke-linecap="round" stroke-linejoin="round" vector-effect="non-scaling-stroke">
+    <path d="M -8 0 L 40 -18 L 40 18 Z" />
+    <path d="M -8 -18 L -8 18" />
+    <path d="M -30 0 L -8 0" />
+    <path d="M 40 0 L 70 0" />
+  </g>
+</svg>
